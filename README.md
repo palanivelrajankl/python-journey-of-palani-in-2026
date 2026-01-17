@@ -1,6 +1,18 @@
 # Python-Journey-of-Palani-in-2026
 HEyy I am Palanivelrajan and here i am just posting my code and also the Growth of Mine...That's Actually "A collection of my daily scripts and experiments as I learn Python."
-## 🎓 Day 4 : The "Mam/Sir" Interaction Experiment
+## 📍 Day 1: The "HEyy" Declaration 🛡️
+**The Script:** `HEyy.py`
+- **The Story:** This was the day I fought a literal AI for my identity. It wanted "lowercase professionalism," but I wanted **HEyy**. I chose my heart over the machine's rules.
+- **The Magic:** Mastered the `print()` function and realized that a 6-letter filename can tell a whole story.
+- **Status:** **IDENTITY SECURED** ✅
+- ## 📍 Day 2: The Student Survival Simulator 📉
+**The Script:** `Palani_Mark_Math.py`
+- **The Story:** I simulated the life of a student. I watched my marks rise with "Bit" (cheating) and "Friends," only to see them crushed by the "Teacher" and "HOD" variables. 
+- **The Magic:** 
+  - **Variable Transformation:** `Palani_Mark += Bit`
+  - **Floor Division (`//`):** Because HODs always round your happiness down to the nearest integer! 
+- **Status:** **LOGIC MASTERED** 🧠
+## 🎓 Day 3 : The "Mam/Sir" Interaction Experiment
 **Project Name:** `Exam_Teacher_Game.py`
 
 ### 📖 The Story
